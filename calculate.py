@@ -47,4 +47,4 @@ def calculate_gpa():
 
 if __name__ == '__main__':
     calculate_gpa()
-    print('Thank you for using this program! Credits: @nishantde')
+    print('Thank you for using this program!')
